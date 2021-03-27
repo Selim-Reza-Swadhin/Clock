@@ -1,0 +1,17 @@
+* {
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+body {
+  width:100vw;
+  height:100vh;
+  line-height:100vh;
+  font-family:"Source Code Pro";
+  text-align:center;
+  transition:all 1000ms ease-in-out;
+}
+#clock {
+  font-size:17vw;
+  color:#fff;
+}
